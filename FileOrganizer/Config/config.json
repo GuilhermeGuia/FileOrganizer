@@ -1,0 +1,9 @@
+﻿{
+  "DestinationDirectory": "",
+  "SourceDirectory": "",
+  "FileExtensions": {
+    "Imagens": [ ".jpeg", ".png", ".gif", ".jpg" ],
+    "Planilhas": [ ".xlsx", ".xls", ".csv" ],
+    "Documentos": [ ".doc", ".docx", ".pdf", ".txt" ]
+  }
+}
